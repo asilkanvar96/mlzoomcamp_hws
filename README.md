@@ -1,2 +1,2 @@
 # mlzoomcamp_hws
-MLzoomcamp homewors
+MLzoomcamp homeworks
